@@ -1,4 +1,4 @@
-# fiap-fase5-mlops
+# Fiap Fase 5 MLOps
 
 ### 📋 Pré-requisitos
 Criando o Ambiente Virtual [VENV](https://www.treinaweb.com.br/blog/criando-ambientes-virtuais-para-projetos-python-com-o-virtualenv)
@@ -18,3 +18,9 @@ pip install -r requirements.txt
 ```
 python3 local.py
 ```
+
+## ✒️ Autores
+Colaboradores do projeto
+* **Alex Girão** - *Várias Atribuições* - [linkedin](https://linkedin.com)
+* **Juliana Melo** - *Várias Atribuições* - [linkedin](https://linkedin.com)
+* **Milton Santiago** - *Várias Atribuições* - [linkedin](https://linkedin.com)
