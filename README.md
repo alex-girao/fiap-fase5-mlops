@@ -1,6 +1,6 @@
 # Fiap Fase 5 - MLOps
 ### 🚀 Começando
-Sobre o Projeto
+Nosso objetivo será disponibilizar este modelo na cloud para consultas num ambiente que permita versionar e publicar novos modelos na cloud, de maneira centralizada. Posteriormente, a solução será industrializada com a utilização de containers em conjunto com soluções gerenciadas de Kubernetes da cloud, como o Azure AKS.
 ### 📋 Pré-requisitos
 Criando o Ambiente Virtual [VENV](https://www.treinaweb.com.br/blog/criando-ambientes-virtuais-para-projetos-python-com-o-virtualenv)
 ```
