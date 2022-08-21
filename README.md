@@ -22,6 +22,6 @@ python3 local.py
 
 ## ✒️ Autores
 Colaboradores do projeto
-* **Alex Girão** - *Várias Atribuições* - [linkedin](https://linkedin.com)
-* **Juliana Melo** - *Várias Atribuições* - [linkedin](https://linkedin.com)
-* **Milton Santiago** - *Várias Atribuições* - [linkedin](https://linkedin.com)
+* **Alex Girão** - *Várias Atribuições* - [linkedin](https://www.linkedin.com/in/alex-girao/)
+* **Juliana Melo** - *Várias Atribuições* - [linkedin](https://www.linkedin.com/in/smelojuliana/)
+* **Milton Santiago** - *Várias Atribuições* - [linkedin](https://www.linkedin.com/in/milton-santiago-9343281a/)
