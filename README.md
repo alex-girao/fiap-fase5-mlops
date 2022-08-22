@@ -15,9 +15,14 @@ Instalando as libs
 ```
 pip install -r requirements.txt
 ```
-## ⚙️ Execução
+## ⚙️ Execução Terminal
 ```
 python3 local.py
+```
+## ⚙️ Execução Endpoint
+```
+export FLASK_APP=endpoint
+flask run
 ```
 
 ## ✒️ Autores
