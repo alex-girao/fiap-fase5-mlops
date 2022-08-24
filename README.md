@@ -31,6 +31,9 @@ SET FLASK_APP=endpoint
 
 flask run
 ```
+## ⚙️ Execução Docker
+docker build --tag python-docker-fiap .
+docker run -d -p 5000:5000 -e FLASK_APP="endpoint"  --name pdf python-docker-fiap
 
 ## ✒️ Autores
 Colaboradores do projeto
