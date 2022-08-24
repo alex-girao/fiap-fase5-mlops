@@ -24,7 +24,11 @@ python3 local.py
 ```
 ## ⚙️ Execução Endpoint
 ```
+# Mac ou Linux
 export FLASK_APP=endpoint
+# Windows
+SET FLASK_APP=endpoint
+
 flask run
 ```
 
