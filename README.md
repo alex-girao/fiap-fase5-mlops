@@ -9,7 +9,10 @@ python3 -m venv .env
 ### 🔧 Instalação
 Ativando o Ambiente Virtual
 ```
+# Mac ou Linux
 source .env/bin/activate
+# Windows
+.env\Scripts\activate
 ```
 Instalando as libs
 ```
