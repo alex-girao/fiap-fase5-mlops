@@ -10,7 +10,7 @@ def predict():
         pipeline = load_joblib("models/sentiments.joblib")
         vector = pipeline.named_steps.vectorizer.transform([frase])
         response = pipeline.named_steps.model.predict(vector)
-        return {"response": response[0]}, 200
+        return {"response-predict": response[0]}, 200
     except Exception as e:
         print(e)
         return {"error": "Falha ao tentar realizar a predição."}, 500
